@@ -3,7 +3,7 @@ import shutil
 import re
 def main():
     
-    call_recording_dir = r'C:\Users\admin\Music\recording'
+    call_recording_dir = r'G:\My Drive\Call recording'
 
 
     all_files = os.listdir(call_recording_dir)
